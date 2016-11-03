@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jazzy_effects_ch">
+        <item>小A</item>
+        <item>小B</item>
+        <item>小C</item>
+        <item>小D</item>
+        <item>小E</item>
+        <item>小F</item>
+        <item>小G</item>
+        <item>小H</item>
+        <item>小I</item>
+        <item>小L</item>
+        <item>小K</item>
+        <item>小N</item>
+        <item>小M</item>
+        <item>小J</item>
+        <item>小O</item>
+        <item>小P</item>
+        <item>小Q</item>
+        <item>小W</item>
+        <item>小U</item>
+        <item>小Z</item>
+        <item>小WW</item>
+    </string-array>
+    
+</resources>
